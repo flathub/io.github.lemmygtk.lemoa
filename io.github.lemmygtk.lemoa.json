@@ -39,7 +39,7 @@
                 {
                     "type": "archive",
                     "url": "https://github.com/lemmygtk/lemoa/releases/download/v0.4.0/lemoa-0.4.0.tar.xz",
-                    "sha256": "b2c5108b6f7b80363dcb094476cbe4918349846d94c25a6a6e1f0a53f3cc7d68"
+                    "sha256": "dadfd2c7c61c66d9cc7caeebce28c865a0b8a1d2a1c8450f16471bdc72bfa5c2"
                 }
             ]
         }
